@@ -36,7 +36,7 @@ To get started with this project, follow these steps:
 3. Run the Python script to launch the Hand Tracking Module:
 
    ```
-   python hand_tracking_volume_control.py
+   python volume control.py
    ```
 
 4. Start controlling the volume with your hand gestures!
