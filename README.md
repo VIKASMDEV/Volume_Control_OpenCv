@@ -48,7 +48,7 @@ To get started with this project, follow these steps:
 - Mediapipe
 - hand tracking module
 - 
-All required dependencies are listed in the `requirements.txt` file.
+All required dependencies are listed in the [requirements.txt](requirements.txt) file.
 
 
 ## Acknowledgments
