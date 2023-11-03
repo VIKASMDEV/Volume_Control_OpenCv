@@ -1,0 +1,9 @@
+import mediapipe
+import cv2
+import time
+import numpy 
+import handtrackingmodule
+from comtypes import CLSCTX_ALL
+from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
+import math
+import handtrackingmodule 
