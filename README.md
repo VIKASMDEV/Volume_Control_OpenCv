@@ -8,7 +8,7 @@ This repository contains the code and resources for a Hand Tracking Module that 
 
 ## How It Works
 
-The Hand Tracking Module detects and tracks the position of your hand in real-time using a webcam. It recognizes specific hand gestures, such as thumbs-up for increasing volume and thumbs-down for decreasing volume. The module then translates these gestures into volume control commands for your device.
+The Hand Tracking Module detects and tracks the position of your hand in real-time using a webcam. By recognizing gestures like a if the thumb  and index is far the volume will be max or more  or thumb and index finger are close or touching the volume will be low or min , this way I can adjust the volume of my device accordingly.
 
 ## Features
 
