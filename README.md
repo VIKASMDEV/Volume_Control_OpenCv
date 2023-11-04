@@ -1,6 +1,6 @@
 # Hand Tracking for Volume Control
 
-![Hand Tracking for Volume Control](project_image.png)
+![Hand Tracking for Volume Control](vol1.png)
 
 ## Project Overview
 
